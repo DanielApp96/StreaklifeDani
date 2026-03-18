@@ -5,19 +5,17 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/6068b756-8d43-489a-9ad0-f9206e49717b"
+    },
     "splash": {
       "resizeMode": "contain",
       "backgroundColor": "#F8F7F4"
     },
     "android": {
       "package": "com.danielapp96.streaklife",
-      "versionCode": 1,
-      "adaptiveIcon": {
-        "backgroundColor": "#F8F7F4"
-      }
-    },
-    "ios": {
-      "bundleIdentifier": "com.danielapp96.streaklife"
+      "versionCode": 1
     },
     "extra": {
       "eas": {
