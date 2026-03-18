@@ -5,7 +5,9 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
-    "runtimeVersion": "1.0.0",
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
     "updates": {
       "url": "https://u.expo.dev/6068b756-8d43-489a-9ad0-f9206e49717b"
     },
